@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="-96.0" y="289.0">com.company.CircularLinkedList</node>
+    <node x="-96.0" y="193.0">com.company.Main</node>
+    <node x="-96.0" y="-14.0">com.company.CustomNode</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Compact" zoom="0.6606498194945848" showDependencies="false" x="92.5" y="262.99999999999994" />
+  <SelectedNodes>
+    <node>com.company.CircularLinkedList</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Inner Classes</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

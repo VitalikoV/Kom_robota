@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="-137.0" y="-27.0">com.company.Subject</node>
+    <node x="322.0" y="334.0">com.company.Mark</node>
+    <node x="275.0" y="-71.0">com.company.Course</node>
+    <node x="76.0" y="28.5">com.company.Main</node>
+    <node x="-137.0" y="224.0">com.company.Student</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Compact" zoom="1.1814024390243902" showDependencies="false" x="275.0" y="257.0" />
+  <SelectedNodes>
+    <node>com.company.Subject</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
